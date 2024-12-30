@@ -22,6 +22,11 @@ class Program
             switch (usersPick)
             {
                 case "1":
+
+                    folk.Add(Person.AddPeople); 
+
+
+                    /*
                     //Loop för att lägga till ytteliggare person, direkt.
                     bool addOneMore = true;
                     while (addOneMore)
@@ -79,6 +84,10 @@ class Program
                             addOneMore = false;
                         }
                     }
+                    */
+
+
+
                     break;
 
 
