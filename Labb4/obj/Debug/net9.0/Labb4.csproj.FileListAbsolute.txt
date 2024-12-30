@@ -12,3 +12,4 @@
 /Users/fredrikdomerteriksson/Documents/GitHub/Gik299_Lab1_Grupp_75/Namnlös/Labb4/Labb4/obj/Debug/net9.0/Labb4.pdb
 /Users/fredrikdomerteriksson/Documents/GitHub/Gik299_Lab1_Grupp_75/Namnlös/Labb4/Labb4/obj/Debug/net9.0/Labb4.genruntimeconfig.cache
 /Users/fredrikdomerteriksson/Documents/GitHub/Gik299_Lab1_Grupp_75/Namnlös/Labb4/Labb4/obj/Debug/net9.0/ref/Labb4.dll
+/Users/fredrikdomerteriksson/Documents/GitHub/Gik299_Lab1_Grupp_75/Namnlös/Labb4/Labb4/obj/Debug/net9.0/Labb4.sourcelink.json
