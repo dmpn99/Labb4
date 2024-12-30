@@ -27,7 +27,7 @@ class Program
                     while (addOneMore)
                     {
                         Console.Clear();
-                        Console.WriteLine("Namn:");
+                        Console.WriteLine("Förnamn:");
                         string name = Console.ReadLine();
                         Console.WriteLine("Födelsedag: YYYY-MM-DD");
                         string birthday = Console.ReadLine();
