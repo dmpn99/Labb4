@@ -15,6 +15,9 @@
 <<<<<<< Updated upstream
 =======
 /Users/fredrikdomerteriksson/Documents/GitHub/Gik299_Lab1_Grupp_75/Namnlös/Labb4/Labb4/obj/Debug/net9.0/Labb4.sourcelink.json
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 C:\Users\pheds\OneDrive\Desktop\Studier\Objektorienterad programmering GIK299\Labb 4\Labb4\Labb4\bin\Debug\net9.0\Labb4.exe
 C:\Users\pheds\OneDrive\Desktop\Studier\Objektorienterad programmering GIK299\Labb 4\Labb4\Labb4\bin\Debug\net9.0\Labb4.deps.json
