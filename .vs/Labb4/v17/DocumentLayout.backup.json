@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\pheds\\OneDrive\\Desktop\\Studier\\Objektorienterad programmering GIK299\\Labb 4\\Labb4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pheds\\OneDrive\\Desktop\\Studier\\Objektorienterad programmering GIK299\\Labb 4\\Labb4\\Labb4\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Labb4\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pheds\\OneDrive\\Desktop\\Studier\\Objektorienterad programmering GIK299\\Labb 4\\Labb4\\Labb4\\Person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Labb4\\Person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,12 +11,6 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pheds\\OneDrive\\Desktop\\Studier\\Objektorienterad programmering GIK299\\Labb 4\\Labb4\\Labb4\\Hair.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Labb4\\Hair.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pheds\\OneDrive\\Desktop\\Studier\\Objektorienterad programmering GIK299\\Labb 4\\Labb4\\Labb4\\Gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Labb4\\Gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
 =======
 =======
 >>>>>>> Stashed changes
@@ -32,11 +22,31 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Labb4\\Gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pheds\\OneDrive\\Desktop\\Studier\\Objektorienterad programmering GIK299\\Labb 4\\Labb4\\Labb4\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Labb4\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pheds\\OneDrive\\Desktop\\Studier\\Objektorienterad programmering GIK299\\Labb 4\\Labb4\\Labb4\\Hair.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Labb4\\Hair.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pheds\\OneDrive\\Desktop\\Studier\\Objektorienterad programmering GIK299\\Labb 4\\Labb4\\Labb4\\Gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Labb4\\Gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
@@ -53,7 +63,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+          "SelectedChildIndex": 4,
+=======
+          "SelectedChildIndex": 6,
+>>>>>>> Stashed changes
+=======
+          "SelectedChildIndex": 6,
+>>>>>>> Stashed changes
+=======
+          "SelectedChildIndex": 6,
+>>>>>>> Stashed changes
+=======
+          "SelectedChildIndex": 6,
+>>>>>>> Stashed changes
           "Children": [
             {
               "$type": "Bookmark",
@@ -77,13 +103,13 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Person.cs",
               "DocumentMoniker": "C:\\Users\\pheds\\OneDrive\\Desktop\\Studier\\Objektorienterad programmering GIK299\\Labb 4\\Labb4\\Labb4\\Person.cs",
               "RelativeDocumentMoniker": "Labb4\\Person.cs",
               "ToolTip": "C:\\Users\\pheds\\OneDrive\\Desktop\\Studier\\Objektorienterad programmering GIK299\\Labb 4\\Labb4\\Labb4\\Person.cs",
               "RelativeToolTip": "Labb4\\Person.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAAAFkAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAAEUAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-30T10:33:49.895Z",
               "EditorCaption": ""
@@ -92,16 +118,16 @@
               "$type": "Document",
               "DocumentIndex": 3,
 =======
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
 >>>>>>> Stashed changes
 =======
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
 >>>>>>> Stashed changes
 =======
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
 >>>>>>> Stashed changes
 =======
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
 >>>>>>> Stashed changes
               "Title": "Gender.cs",
               "DocumentMoniker": "C:\\Users\\pheds\\OneDrive\\Desktop\\Studier\\Objektorienterad programmering GIK299\\Labb 4\\Labb4\\Labb4\\Gender.cs",
@@ -169,41 +195,57 @@
 <<<<<<< Updated upstream
               "WhenOpened": "2024-12-30T10:33:45.067Z",
 =======
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
               "WhenOpened": "2024-12-31T08:36:22.702Z",
+>>>>>>> Stashed changes
+=======
+              "WhenOpened": "2024-12-31T08:36:22.702Z",
+>>>>>>> Stashed changes
+=======
+              "WhenOpened": "2024-12-31T08:36:22.702Z",
+>>>>>>> Stashed changes
+=======
+              "WhenOpened": "2024-12-31T08:36:22.702Z",
+>>>>>>> Stashed changes
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
               "DocumentIndex": 1,
+=======
+=======
+>>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
+              "DocumentIndex": 0,
               "Title": "Person.cs",
               "DocumentMoniker": "C:\\Users\\pheds\\OneDrive\\Desktop\\Studier\\Objektorienterad programmering GIK299\\Labb 4\\Labb4\\Labb4\\Person.cs",
               "RelativeDocumentMoniker": "Labb4\\Person.cs",
               "ToolTip": "C:\\Users\\pheds\\OneDrive\\Desktop\\Studier\\Objektorienterad programmering GIK299\\Labb 4\\Labb4\\Labb4\\Person.cs",
               "RelativeToolTip": "Labb4\\Person.cs",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAAGUAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-31T08:36:21.315Z",
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\pheds\\OneDrive\\Desktop\\Studier\\Objektorienterad programmering GIK299\\Labb 4\\Labb4\\Labb4\\Program.cs",
               "RelativeDocumentMoniker": "Labb4\\Program.cs",
@@ -213,26 +255,26 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACQAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-30T10:33:42.938Z",
 =======
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-31T08:36:18.835Z",
 >>>>>>> Stashed changes
 =======
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-31T08:36:18.835Z",
 >>>>>>> Stashed changes
 =======
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-31T08:36:18.835Z",
 >>>>>>> Stashed changes
 =======
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-31T08:36:18.835Z",
 >>>>>>> Stashed changes
