@@ -2,19 +2,19 @@ namespace Labb4;
 
 public class Person
 {
-    // propertys till Personklassen
+    // Propertys till Personklassen
     public string Name { get; set; }
     public string Birthday { get; set; }
-    public string EyeColour { get; set; }
+    public string EyeColor { get; set; }
     public Hair Hair { get; set; }
     public Gender Gender { get; set; }
 
-    // En konstructor
+    // En konstruktor
     public Person(string name, string birthday, string eyeColour, Hair hair, Gender gender)
     {
         Name = name;
         Birthday = birthday;
-        EyeColour = eyeColour;
+        EyeColor = eyeColour;
         Hair = hair;
         Gender = gender;
 
@@ -23,7 +23,7 @@ public class Person
     // Metod för att lägga till personer, tar en lista som parameter
     public static void AddPerson(List<Person> people)
     {
-            //Loop för att lägga till ytteliggare person, direkt.
+            //Loop för att lägga till ytterligare person, direkt.
             bool addOneMore = true;
             while (addOneMore)
             {
@@ -57,7 +57,7 @@ public class Person
 
                 Console.WriteLine("Kön: (Man, Kvinna, IckeBinär, Annat)");
                 string genderString = Console.ReadLine().ToUpper();
-                // Vi deklarerar en enumtyp "gender" och tilldelar den "Annat". Om använaderen skriver nåot annat än vad som finns blir det "annat".   
+                // Vi deklarerar en enumtyp "gender" och tilldelar den "Annat". Om använadaren skriver något annat än vad som finns blir det "annat".   
                 Gender gender = Gender.Annat;
                 // Omvandla kön-sträng till enum och tilldelar den det relevanta könet.
                 if (genderString == "Man")
@@ -67,11 +67,11 @@ public class Person
                 else if (genderString == "IckeBinär")
                     gender = Gender.IckeBinär;
 
-                // Skapar ett Hair-objekt av type struct där vi lagrar hårdata 
+                // Skapar ett Hair-objekt av typen struct där vi lagrar hårdata. 
                 Hair hair = new Hair(hairLenght, hairColor);
                 // Vi lägger till personen i vår lista som vi skapade i main.
                 people.Add(new Person(name, birthday, eyeColor, hair, gender));
-                // Om man vill lägga till en till person
+                // Om man vill lägga till ännu en person.
                 Console.WriteLine("Vill du lägga till en till person? Tryck J annars Enter");
                 string yesOrNo = Console.ReadLine().ToUpper();
                 if (yesOrNo == "J")
@@ -102,8 +102,7 @@ public class Person
             {
                 Console.WriteLine("\n" + person.ToString());
                 Console.WriteLine("\n-----------------------------------");
-            }
-
+            } 
             Console.WriteLine("\nTryck för att återgå till huvudmeny...");
             Console.ReadKey();
         }
@@ -114,7 +113,7 @@ public class Person
         return "Namn: " + Name +
                "\nKön: " + Gender +
                "\nFödelsedag: " + Birthday +
-               "\nÖgonfärg: " + EyeColour +
+               "\nÖgonfärg: " + EyeColor +
                "\nHårfärg: " + Hair.HairColor +
                "\nHårlängd: " + Hair.HairLength;
     }

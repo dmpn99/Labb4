@@ -28,18 +28,18 @@
 /Users/fredrikdomerteriksson/Documents/GitHub/Gik299_Lab1_Grupp_75/Namnlös/Labb4/Namnlös/Labb4/obj/Debug/net9.0/Labb4.pdb
 /Users/fredrikdomerteriksson/Documents/GitHub/Gik299_Lab1_Grupp_75/Namnlös/Labb4/Namnlös/Labb4/obj/Debug/net9.0/Labb4.genruntimeconfig.cache
 /Users/fredrikdomerteriksson/Documents/GitHub/Gik299_Lab1_Grupp_75/Namnlös/Labb4/Namnlös/Labb4/obj/Debug/net9.0/ref/Labb4.dll
-C:\Users\pheds\OneDrive\Desktop\Studier\Objektorienterad programmering GIK299\Labb 4\Labb4\Labb4\bin\Debug\net9.0\Labb4.exe
-C:\Users\pheds\OneDrive\Desktop\Studier\Objektorienterad programmering GIK299\Labb 4\Labb4\Labb4\bin\Debug\net9.0\Labb4.deps.json
-C:\Users\pheds\OneDrive\Desktop\Studier\Objektorienterad programmering GIK299\Labb 4\Labb4\Labb4\bin\Debug\net9.0\Labb4.runtimeconfig.json
-C:\Users\pheds\OneDrive\Desktop\Studier\Objektorienterad programmering GIK299\Labb 4\Labb4\Labb4\bin\Debug\net9.0\Labb4.dll
-C:\Users\pheds\OneDrive\Desktop\Studier\Objektorienterad programmering GIK299\Labb 4\Labb4\Labb4\bin\Debug\net9.0\Labb4.pdb
-C:\Users\pheds\OneDrive\Desktop\Studier\Objektorienterad programmering GIK299\Labb 4\Labb4\Labb4\obj\Debug\net9.0\Labb4.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\pheds\OneDrive\Desktop\Studier\Objektorienterad programmering GIK299\Labb 4\Labb4\Labb4\obj\Debug\net9.0\Labb4.AssemblyInfoInputs.cache
-C:\Users\pheds\OneDrive\Desktop\Studier\Objektorienterad programmering GIK299\Labb 4\Labb4\Labb4\obj\Debug\net9.0\Labb4.AssemblyInfo.cs
-C:\Users\pheds\OneDrive\Desktop\Studier\Objektorienterad programmering GIK299\Labb 4\Labb4\Labb4\obj\Debug\net9.0\Labb4.csproj.CoreCompileInputs.cache
-C:\Users\pheds\OneDrive\Desktop\Studier\Objektorienterad programmering GIK299\Labb 4\Labb4\Labb4\obj\Debug\net9.0\Labb4.sourcelink.json
-C:\Users\pheds\OneDrive\Desktop\Studier\Objektorienterad programmering GIK299\Labb 4\Labb4\Labb4\obj\Debug\net9.0\Labb4.dll
-C:\Users\pheds\OneDrive\Desktop\Studier\Objektorienterad programmering GIK299\Labb 4\Labb4\Labb4\obj\Debug\net9.0\refint\Labb4.dll
-C:\Users\pheds\OneDrive\Desktop\Studier\Objektorienterad programmering GIK299\Labb 4\Labb4\Labb4\obj\Debug\net9.0\Labb4.pdb
-C:\Users\pheds\OneDrive\Desktop\Studier\Objektorienterad programmering GIK299\Labb 4\Labb4\Labb4\obj\Debug\net9.0\Labb4.genruntimeconfig.cache
-C:\Users\pheds\OneDrive\Desktop\Studier\Objektorienterad programmering GIK299\Labb 4\Labb4\Labb4\obj\Debug\net9.0\ref\Labb4.dll
+C:/Users/pheds/OneDrive/Desktop/Studier/Objektorienterad programmering GIK299/Labb 4/Labb4/Labb4/bin/Debug/net9.0/Labb4.exe
+C:/Users/pheds/OneDrive/Desktop/Studier/Objektorienterad programmering GIK299/Labb 4/Labb4/Labb4/bin/Debug/net9.0/Labb4.deps.json
+C:/Users/pheds/OneDrive/Desktop/Studier/Objektorienterad programmering GIK299/Labb 4/Labb4/Labb4/bin/Debug/net9.0/Labb4.runtimeconfig.json
+C:/Users/pheds/OneDrive/Desktop/Studier/Objektorienterad programmering GIK299/Labb 4/Labb4/Labb4/bin/Debug/net9.0/Labb4.dll
+C:/Users/pheds/OneDrive/Desktop/Studier/Objektorienterad programmering GIK299/Labb 4/Labb4/Labb4/bin/Debug/net9.0/Labb4.pdb
+C:/Users/pheds/OneDrive/Desktop/Studier/Objektorienterad programmering GIK299/Labb 4/Labb4/Labb4/obj/Debug/net9.0/Labb4.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/pheds/OneDrive/Desktop/Studier/Objektorienterad programmering GIK299/Labb 4/Labb4/Labb4/obj/Debug/net9.0/Labb4.AssemblyInfoInputs.cache
+C:/Users/pheds/OneDrive/Desktop/Studier/Objektorienterad programmering GIK299/Labb 4/Labb4/Labb4/obj/Debug/net9.0/Labb4.AssemblyInfo.cs
+C:/Users/pheds/OneDrive/Desktop/Studier/Objektorienterad programmering GIK299/Labb 4/Labb4/Labb4/obj/Debug/net9.0/Labb4.csproj.CoreCompileInputs.cache
+C:/Users/pheds/OneDrive/Desktop/Studier/Objektorienterad programmering GIK299/Labb 4/Labb4/Labb4/obj/Debug/net9.0/Labb4.sourcelink.json
+C:/Users/pheds/OneDrive/Desktop/Studier/Objektorienterad programmering GIK299/Labb 4/Labb4/Labb4/obj/Debug/net9.0/Labb4.dll
+C:/Users/pheds/OneDrive/Desktop/Studier/Objektorienterad programmering GIK299/Labb 4/Labb4/Labb4/obj/Debug/net9.0/refint/Labb4.dll
+C:/Users/pheds/OneDrive/Desktop/Studier/Objektorienterad programmering GIK299/Labb 4/Labb4/Labb4/obj/Debug/net9.0/Labb4.pdb
+C:/Users/pheds/OneDrive/Desktop/Studier/Objektorienterad programmering GIK299/Labb 4/Labb4/Labb4/obj/Debug/net9.0/Labb4.genruntimeconfig.cache
+C:/Users/pheds/OneDrive/Desktop/Studier/Objektorienterad programmering GIK299/Labb 4/Labb4/Labb4/obj/Debug/net9.0/ref/Labb4.dll

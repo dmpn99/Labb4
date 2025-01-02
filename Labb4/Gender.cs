@@ -4,6 +4,6 @@ public enum Gender
 {
     Man,
     Kvinna,
-    IckeBinär,
+    IckeBinÃ¤r,
     Annat
 }
