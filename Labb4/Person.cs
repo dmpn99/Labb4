@@ -2,14 +2,14 @@ namespace Labb4;
 
 public class Person
 {
-
+    // propertys till Personklassen
     public string Name { get; set; }
     public string Birthday { get; set; }
     public string EyeColour { get; set; }
     public Hair Hair { get; set; }
     public Gender Gender { get; set; }
 
-
+    // En konstructor
     public Person(string name, string birthday, string eyeColour, Hair hair, Gender gender)
     {
         Name = name;
@@ -20,6 +20,95 @@ public class Person
 
     }
 
+    // Metod för att lägga till personer, tar en lista som parameter
+    public static void AddPerson(List<Person> people)
+    {
+            //Loop för att lägga till ytteliggare person, direkt.
+            bool addOneMore = true;
+            while (addOneMore)
+            {
+                Console.Clear();
+                Console.WriteLine("Förnamn:");
+                string name = Console.ReadLine();
+                Console.WriteLine("Födelsedag: YYYY-MM-DD");
+                string birthday = Console.ReadLine();
+                Console.WriteLine("Ögonfärg:");
+                string eyeColor = Console.ReadLine();
+                Console.WriteLine("Hårfärg:");
+                string hairColor = Console.ReadLine();
+                
+
+                // Här lägger vi in felhantering så man bara kan skriva in siffror
+                int hairLenght = 0;
+                bool hairTest = true;
+                while (hairTest)
+                {
+                    Console.WriteLine("Hårlängd i cm: ");
+                    string userhairLenght = Console.ReadLine();
+                    if (int.TryParse(userhairLenght, out hairLenght))
+                    {
+                        hairTest = false;
+                    }
+                    else
+                    {
+                        Console.WriteLine("Mata in längden i centimeter, endast siffror.");
+                    }
+                }
+
+                Console.WriteLine("Kön: (Man, Kvinna, IckeBinär, Annat)");
+                string genderString = Console.ReadLine().ToUpper();
+                // Vi deklarerar en enumtyp "gender" och tilldelar den "Annat". Om använaderen skriver nåot annat än vad som finns blir det "annat".   
+                Gender gender = Gender.Annat;
+                // Omvandla kön-sträng till enum och tilldelar den det relevanta könet.
+                if (genderString == "Man")
+                    gender = Gender.Man;
+                else if (genderString == "Kvinna")
+                    gender = Gender.Kvinna;
+                else if (genderString == "IckeBinär")
+                    gender = Gender.IckeBinär;
+
+                // Skapar ett Hair-objekt av type struct där vi lagrar hårdata 
+                Hair hair = new Hair(hairLenght, hairColor);
+                // Vi lägger till personen i vår lista som vi skapade i main.
+                people.Add(new Person(name, birthday, eyeColor, hair, gender));
+                // Om man vill lägga till en till person
+                Console.WriteLine("Vill du lägga till en till person? Tryck J annars Enter");
+                string yesOrNo = Console.ReadLine().ToUpper();
+                if (yesOrNo == "J")
+                {
+                    addOneMore = true;
+                }
+                else
+                {
+                    addOneMore = false;
+                }
+            }
+    }
+    // Metod för utskrift. Vår "people" lista som parameter
+    public static void ListPerson(List<Person> people)
+    {
+        Console.Clear();
+        // Vi börja med att kolla om listan är tom
+        if (people.Count == 0)
+        {
+            Console.Clear();
+            Console.WriteLine("Listan är tom.");
+            Thread.Sleep(1750);
+        }
+        else
+        {
+            // Vi skriver ut med hjälp av metoden "ToString"
+            foreach (var person in people)
+            {
+                Console.WriteLine("\n" + person.ToString());
+                Console.WriteLine("\n-----------------------------------");
+            }
+
+            Console.WriteLine("\nTryck för att återgå till huvudmeny...");
+            Console.ReadKey();
+        }
+    }
+    // Metod för att skriva ut
     public override string ToString()
     {
         return "Namn: " + Name +
@@ -30,87 +119,6 @@ public class Person
                "\nHårlängd: " + Hair.HairLength;
     }
 
-    public static void AddPerson(List<Person> folk)
-    {
-         //Loop för att lägga till ytteliggare person, direkt.
-                    bool addOneMore = true;
-                    while (addOneMore)
-                    {
-                        Console.Clear();
-                        Console.WriteLine("Förnamn:");
-                        string name = Console.ReadLine();
-                        Console.WriteLine("Födelsedag: YYYY-MM-DD");
-                        string birthday = Console.ReadLine();
-                        Console.WriteLine("Ögonfärg:");
-                        string eyeColor = Console.ReadLine();
-                        Console.WriteLine("Hårfärg:");
-                        string hairColor = Console.ReadLine();
-                        
-                        int hairLenght = 0;
-                        bool hairTest = true;
-                        while (hairTest)
-                        {
-                            Console.WriteLine("Hårlängd: (tex. 40)");
-                            string userhairLenght = Console.ReadLine();
-                            if (int.TryParse(userhairLenght, out hairLenght))
-                            {
-                                hairTest = false;
-                            }
-                            else
-                            {
-                                Console.WriteLine("Mata in längden i centimeter, endast siffror.");
-                            }
-                        }
-
-                        Console.WriteLine("Kön: (Male, Female, Other, Non-Binary)");
-                        string genderString = Console.ReadLine().ToUpper();
-                        Gender gender = Gender.Other;
-                        // Omvandla kön-sträng till enum
-                        if (genderString == "MALE")
-                            gender = Gender.Male;
-                        else if (genderString == "FEMALE")
-                            gender = Gender.Female;
-                        else if (genderString == "NON-BINARY")
-                            gender = Gender.NoneBinary;
-
-                        // Skapa ett nytt Hair-objekt
-                        Hair hair = new Hair(hairLenght, hairColor);
-                        
-                        folk.Add(new Person(name, birthday, eyeColor, hair, gender));
-
-                        Console.WriteLine("Vill du lägga till en till person? JA/NEJ");
-                        string yesOrNo = Console.ReadLine().ToUpper();
-                        if (yesOrNo == "JA")
-                        {
-                            addOneMore = true;
-                        }
-                        else
-                        {
-                            addOneMore = false;
-                        }
-                    }
-    }
-
-    public static void ListPerson(List<Person> folk)
-    {
-        if (folk.Count == 0)
-        {
-            Console.Clear();
-            Console.WriteLine("Listan är tom.");
-            Thread.Sleep(1750);
-        }
-        else
-        {
-            foreach (var person in folk)
-            {
-                Console.WriteLine("\n" + person.ToString());
-                Console.WriteLine("\n-----------------------------------");
-            }
-
-            Console.WriteLine("Tryck för att återgå till huvudmeny...");
-            Console.ReadKey();
-            }
-    }
 
 
 

@@ -5,10 +5,10 @@ class Program
     static void Main(string[] args)
     {
         
-        //Lista
-        List<Person> folk = new List<Person>();
+        //Vi skapar en lista där vi lagrar alla personer
+        List<Person> people = new List<Person>();
         
-        //Huvud-loop
+        //Loopen för menyn
         bool isRunning = true;
         while (isRunning)
         {
@@ -16,19 +16,19 @@ class Program
             Console.WriteLine("1. Lägg till person");
             Console.WriteLine("2. Visa lista med personer");
             Console.WriteLine("3. Avsluta");
-            Console.Write("Ditt val: ");
+            Console.Write("\nDitt val: ");
             string usersPick = Console.ReadLine();
             
             switch (usersPick)
             {
                 case "1":
                     
-                    Person.AddPerson(folk);
+                    Person.AddPerson(people);
                     break;
                 
                 case "2":
 
-                    Person.ListPerson(folk);
+                    Person.ListPerson(people);
                     break; 
                 
                 case "3": 
