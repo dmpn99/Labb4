@@ -10,11 +10,11 @@ public class Person
     public Gender Gender { get; set; }
 
     // En konstruktor
-    public Person(string name, string birthday, string eyeColour, Hair hair, Gender gender)
+    public Person(string name, string birthday, string eyeColor, Hair hair, Gender gender)
     {
         Name = name;
         Birthday = birthday;
-        EyeColor = eyeColour;
+        EyeColor = eyeColor;
         Hair = hair;
         Gender = gender;
 

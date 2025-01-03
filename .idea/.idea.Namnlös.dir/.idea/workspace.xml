@@ -8,24 +8,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d7cc4ab5-6514-44e4-8d9e-946255e17426" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Labb4/Gender.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Labb4/Gender.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Labb4/Person.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Labb4/Person.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Labb4/bin/Debug/net9.0/Labb4.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Labb4/bin/Debug/net9.0/Labb4.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Labb4/bin/Debug/net9.0/Labb4.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Labb4/bin/Debug/net9.0/Labb4.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Labb4/obj/Debug/net9.0/Labb4.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Labb4/obj/Debug/net9.0/Labb4.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Labb4/obj/Debug/net9.0/Labb4.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Labb4/obj/Debug/net9.0/Labb4.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labb4/obj/Debug/net9.0/Labb4.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Labb4/obj/Debug/net9.0/Labb4.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labb4/obj/Debug/net9.0/Labb4.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Labb4/obj/Debug/net9.0/Labb4.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labb4/obj/Debug/net9.0/Labb4.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Labb4/obj/Debug/net9.0/Labb4.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labb4/obj/Debug/net9.0/Labb4.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Labb4/obj/Debug/net9.0/Labb4.csproj.FileListAbsolute.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Labb4/obj/Debug/net9.0/Labb4.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Labb4/obj/Debug/net9.0/Labb4.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labb4/obj/Debug/net9.0/Labb4.genruntimeconfig.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Labb4/obj/Debug/net9.0/Labb4.genruntimeconfig.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Labb4/obj/Debug/net9.0/Labb4.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Labb4/obj/Debug/net9.0/Labb4.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Labb4/obj/Debug/net9.0/Labb4.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/Labb4/obj/Debug/net9.0/Labb4.sourcelink.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Labb4/obj/Debug/net9.0/ref/Labb4.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Labb4/obj/Debug/net9.0/ref/Labb4.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Labb4/obj/Debug/net9.0/refint/Labb4.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Labb4/obj/Debug/net9.0/refint/Labb4.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Labb4/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/Labb4/obj/rider.project.model.nuget.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labb4/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Labb4/obj/rider.project.restore.info" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,21 +51,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    ".NET Project.Labb4.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "configurable.group.appearance",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;.NET Project.Labb4.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.appearance&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Labb4" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
@@ -104,6 +97,7 @@
       <workItem from="1735744245902" duration="62000" />
       <workItem from="1735744356206" duration="37000" />
       <workItem from="1735852271792" duration="1533000" />
+      <workItem from="1735898957646" duration="197000" />
     </task>
     <servers />
   </component>
