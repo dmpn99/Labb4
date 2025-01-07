@@ -60,11 +60,11 @@ public class Person
                 // Vi deklarerar en enumtyp "gender" och tilldelar den "Annat". Om använadaren skriver något annat än vad som finns blir det "annat".   
                 Gender gender = Gender.Annat;
                 // Omvandla kön-sträng till enum och tilldelar den det relevanta könet.
-                if (genderString == "Man")
+                if (genderString == "MAN")
                     gender = Gender.Man;
-                else if (genderString == "Kvinna")
+                else if (genderString == "KVINNA")
                     gender = Gender.Kvinna;
-                else if (genderString == "IckeBinär")
+                else if (genderString == "ICKEBINÄR")
                     gender = Gender.IckeBinär;
 
                 // Skapar ett Hair-objekt av typen struct där vi lagrar hårdata. 

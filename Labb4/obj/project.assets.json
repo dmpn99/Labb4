@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/fredrikdomerteriksson/Documents/GitHub/Gik299_Lab1_Grupp_75/Namnlös/Labb4/Namnlös/Labb4/Labb4.csproj",
+      "projectUniqueName": "/Users/fredrikdomerteriksson/Documents/GitHub/Gik299_Lab1_Grupp_75/Namnlös/Namnlös/Labb4/Labb4/Labb4.csproj",
       "projectName": "Labb4",
-      "projectPath": "/Users/fredrikdomerteriksson/Documents/GitHub/Gik299_Lab1_Grupp_75/Namnlös/Labb4/Namnlös/Labb4/Labb4.csproj",
+      "projectPath": "/Users/fredrikdomerteriksson/Documents/GitHub/Gik299_Lab1_Grupp_75/Namnlös/Namnlös/Labb4/Labb4/Labb4.csproj",
       "packagesPath": "/Users/fredrikdomerteriksson/.nuget/packages/",
-      "outputPath": "/Users/fredrikdomerteriksson/Documents/GitHub/Gik299_Lab1_Grupp_75/Namnlös/Labb4/Namnlös/Labb4/obj/",
+      "outputPath": "/Users/fredrikdomerteriksson/Documents/GitHub/Gik299_Lab1_Grupp_75/Namnlös/Namnlös/Labb4/Labb4/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/fredrikdomerteriksson/.nuget/NuGet/NuGet.Config"
