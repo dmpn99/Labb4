@@ -59,7 +59,7 @@ public class Person
                 string genderString = Console.ReadLine().ToUpper();
                 // Vi deklarerar en enumtyp "gender" och tilldelar den "Annat". Om använadaren skriver något annat än vad som finns blir det "annat".   
                 Gender gender = Gender.Annat;
-                // Omvandla kön-sträng till enum och tilldelar den det relevanta könet.
+                // Vi tilldelar enum "gender" rätt värde.
                 if (genderString == "MAN")
                     gender = Gender.Man;
                 else if (genderString == "KVINNA")
