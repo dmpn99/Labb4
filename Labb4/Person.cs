@@ -91,7 +91,6 @@ public class Person
         // Vi börja med att kolla om listan är tom
         if (people.Count == 0)
         {
-            Console.Clear();
             Console.WriteLine("Listan är tom.");
             Thread.Sleep(1750);
         }
